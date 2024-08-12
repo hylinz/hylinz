@@ -2,7 +2,7 @@
 
 ### &nbsp;About Me
 
-👨‍💻 &nbsp;Currently working as a integration specialist in Sweden
+👨‍💻 &nbsp;Currently working as an integration specialist in Sweden
 
 I am a natively curious & creative developer who spend my time building video games, web and desktop applications and the occassional powershell script- to make my working life easier!
 What I lack in formal education I make up for in genuine interest and I am 100% self taught and have been messing around with tech since the age of 12.
