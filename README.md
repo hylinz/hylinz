@@ -2,10 +2,11 @@
 
 ### &nbsp;About Me
 
-👨‍💻 &nbsp;Currently working as an integration specialist in Sweden
+&nbsp;Currently working as an integration specialist in Sweden
 
 I am a natively curious & creative developer who spend my time building video games, web and desktop applications and the occassional powershell script- to make my working life easier!
-What I lack in formal education I make up for in genuine interest and I am 100% self taught and have been messing around with tech since the age of 12.
+What I lack in formal education I make up for in genuine interest. 
+I am 100% self taught and have been messing around with tech since the age of 12.
 
 ### 🛠 &nbsp;Stuff I like to work with
 
@@ -14,7 +15,6 @@ What I lack in formal education I make up for in genuine interest and I am 100% 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
